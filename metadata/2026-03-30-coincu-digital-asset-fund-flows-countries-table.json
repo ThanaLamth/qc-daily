@@ -1,0 +1,18 @@
+{
+  "sourceUrl": "https://coinshares.com/insights/research-data/fund-flows-17-02-25/",
+  "platformKey": "coinshares",
+  "captureKey": "countries_table",
+  "timestamp": "2026-03-30T12:45:54.985Z",
+  "outputPath": "/home/thananewsflow/qc-daily/captures/2026-03-30-coincu-digital-asset-fund-flows-countries-table.png",
+  "selectorUsed": "img[src*='coinshares_fundflows_table_countries_']",
+  "mode": "element",
+  "pageContext": {
+    "pageTitle": "Digital asset fund flows report – February 17th, 2025",
+    "summary": "Bitcoin, highly sensitive to interest rate expectations, bore the brunt of investor outflows, totalling $430m.",
+    "dataPoints": [
+      "Bitcoin, highly sensitive to interest rate expectations, bore the brunt of investor outflows, totalling $430m.",
+      "Bitcoin, highly sensitive to interest rate expectations, bore the brunt of investor outflows, totalling $430m.",
+      "Bitcoin, highly sensitive to interest rate expectations, bore the brunt of investor outflows, totalling $430m last week. Interestingly, ther..."
+    ]
+  }
+}
